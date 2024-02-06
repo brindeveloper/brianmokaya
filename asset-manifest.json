@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/brianmokaya-github.io/static/css/main.c7c79e4a.css",
+    "main.js": "/brianmokaya-github.io/static/js/main.55bc4e1f.js",
+    "static/media/CV.PDF": "/brianmokaya-github.io/static/media/CV.a176267b4762bd9ca78b.PDF",
+    "static/media/portfolio1.jpg": "/brianmokaya-github.io/static/media/portfolio1.ae187bc4e43ae6dbc263.jpg",
+    "static/media/me.jpg": "/brianmokaya-github.io/static/media/me.e56e6cbd8c0d8a7845c0.jpg",
+    "static/media/portfolio2.jpg": "/brianmokaya-github.io/static/media/portfolio2.cbab42559fe73e73906f.jpg",
+    "index.html": "/brianmokaya-github.io/index.html",
+    "main.c7c79e4a.css.map": "/brianmokaya-github.io/static/css/main.c7c79e4a.css.map",
+    "main.55bc4e1f.js.map": "/brianmokaya-github.io/static/js/main.55bc4e1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c79e4a.css",
+    "static/js/main.55bc4e1f.js"
+  ]
+}
